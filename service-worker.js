@@ -1,4 +1,4 @@
-const CACHE_NAME = "firstpwa-v2";
+const CACHE_NAME = "firstpwa-v1.01";
 const urlsToCache=[
     "/",
     "/nav.html",
@@ -8,7 +8,8 @@ const urlsToCache=[
     "/pages/contact.html",
     "/css/materialize.min.css",
     "/js/materialize.min.js",
-    "js/nav.js"
+    "js/nav.js",
+    "/icon.png"
 ];
 
 // simpan hasil cache

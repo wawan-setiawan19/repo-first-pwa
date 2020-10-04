@@ -9,7 +9,9 @@ const urlsToCache=[
     "/css/materialize.min.css",
     "/js/materialize.min.js",
     "js/nav.js",
-    "/icon.png"
+    "/icon.png",
+    "/service-worker.js",
+    "/manifest.json"
 ];
 
 // simpan hasil cache
